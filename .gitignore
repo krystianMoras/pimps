@@ -1,0 +1,5 @@
+*.pdf
+*.srt
+*.mp3
+*.log
+local_cache/
